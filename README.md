@@ -13,7 +13,7 @@
 <br/>
 💡  Ideas can change the world
 <br/>
-![image](https://github.com/IsaacMartins12/isaacmartins12/assets/91567120/fd7c58c7-bc90-435d-8118-caf53a86e1da) Brazil
+🇧🇷  Brazil
 <br/>
 
 -📨 Talk with me for share ideas and projects : isaac.martins230@gmail.com

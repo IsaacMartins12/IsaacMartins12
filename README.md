@@ -2,10 +2,13 @@
 ## My name is Isaac Martins and my nickname is "Zack"!
 
 💻 Working such Developer SW/HW at Multinational Company
+<br/>
 🚀 Loved for science and technology
+<br/>
 🐍 Python is Life
+<br/>
 📈 The data doesn't lie
-
+<br/>
 
 -📨 Speak with me for share ideas and projects : isaac.martins230@gmail.com
 

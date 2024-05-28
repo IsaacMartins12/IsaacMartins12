@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Isaac Martins and my nickname is "Zack"!
+## My name is Isaac but you can call me Zack
 
 💻 Working such Developer SW/HW at Multinational Company
 <br/>
@@ -7,7 +7,9 @@
 <br/>
 🐍 Python is Life
 <br/>
-📈 The data doesn't lie
+🎲 The data doesn't lie
+<br/>
+💡 Ideas can change the world
 <br/>
 
 -📨 Speak with me for share ideas and projects : isaac.martins230@gmail.com

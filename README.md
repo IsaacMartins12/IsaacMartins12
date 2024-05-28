@@ -22,6 +22,7 @@ Here are some ideas to get you started:
           
 <div>
 <a href="https://github.com/isaacmartins12">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
+<br>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="max-width: 100%;"/>
 </div>

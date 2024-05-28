@@ -13,8 +13,6 @@
 <br/>
 💡  Ideas can change the world
 <br/>
-🇧🇷  Brazil
-<br/>
 
 -📨 Talk with me for share ideas and projects : isaac.martins230@gmail.com
 
